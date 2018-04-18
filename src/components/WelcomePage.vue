@@ -14,6 +14,9 @@
     </form>
     <p class="error">{{registerError}}</p>
   </div>
+  <footer>
+    <a href="https://github.com/jgilles3/cp5">Git Hub Repository</a>
+  </footer>
 </template>
 
 <script>

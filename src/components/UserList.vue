@@ -31,6 +31,9 @@
       </div>
     </div>
   </div>
+  <footer>
+    <a href="https://github.com/jgilles3/cp5">Git Hub Repository</a>
+  </footer>
 </template>
 
 <script>
