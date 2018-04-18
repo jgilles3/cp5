@@ -13,10 +13,10 @@
       <button class="alternate" type="submit">Register</button>
     </form>
     <p class="error">{{registerError}}</p>
+    <footer>
+      <a href="https://github.com/jgilles3/cp5">Git Hub Repository</a>
+    </footer>
   </div>
-  <footer>
-    <a href="https://github.com/jgilles3/cp5">Git Hub Repository</a>
-  </footer>
 </template>
 
 <script>
