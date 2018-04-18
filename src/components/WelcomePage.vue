@@ -4,7 +4,7 @@
     <h1>HomeworkTracker</h1>
     <h2>Procrastinator? We can help.</h2>
     <form v-on:submit.prevent="register">
-      <p>1. Choose a user name (this is how you will be known by others on Red Bird).</p>
+      <p>1. Choose a user name.</p>
       <input class="narrow" v-model="username" placeholder="User Name">
       <p>2. Create an account.</p>
       <input class="wide" v-model="name" placeholder="First and Last Name"><br/>
